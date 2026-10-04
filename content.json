@@ -113,6 +113,20 @@
           "caption": ""
         }
       ]
+    },
+    {
+      "id": "yo",
+      "category": "projects",
+      "title": "Yo",
+      "summary": "פתרונות פה ושם",
+      "body": "",
+      "cover": "yo-muu35aj0r1h6",
+      "photos": [
+        {
+          "file": "yo-muu35aj0r1h6",
+          "caption": ""
+        }
+      ]
     }
   ]
 }
