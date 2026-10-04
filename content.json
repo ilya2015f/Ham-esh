@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "updated": "2026-10-04",
+  "site": {
+    "name": "חמ-אש",
+    "tagline": "תיקון ופירוק מכונות תעשייתיות · שיפוצים · חשמל",
+    "phone": "050-656-5883",
+    "phoneIntl": "+972506565883",
+    "whatsapp": "972506565883",
+    "email": "hamsh2891@gmail.com",
+    "area": "אזור הדרום",
+    "hours": "א׳–ה׳, 07:00–17:00"
+  },
+  "categories": [
+    {
+      "id": "projects",
+      "label": "פרויקטים",
+      "blurb": "עבודות גדולות ומורכבות — תהליך מלא מאבחון ועד מסירה."
+    },
+    {
+      "id": "works",
+      "label": "עבודות",
+      "blurb": "תיקונים וטיפולים נקודתיים מהשטח."
+    }
+  ],
+  "items": [
+    {
+      "id": "kx450f",
+      "category": "works",
+      "title": "KX-450F",
+      "summary": "טיפול מלא לאופנוע KX-450F — ניקוי ושימון שרשרת וכיוון שסתומים.",
+      "body": "",
+      "cover": "p01",
+      "photos": [
+        {
+          "file": "p01",
+          "caption": ""
+        },
+        {
+          "file": "p02",
+          "caption": ""
+        },
+        {
+          "file": "p03",
+          "caption": ""
+        },
+        {
+          "file": "p04",
+          "caption": ""
+        },
+        {
+          "file": "p05",
+          "caption": ""
+        },
+        {
+          "file": "p06",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "ice-machine",
+      "category": "works",
+      "title": "מכונת קרח",
+      "summary": "תיקון תקלה",
+      "body": "",
+      "cover": "p07",
+      "photos": [
+        {
+          "file": "p07",
+          "caption": ""
+        },
+        {
+          "file": "p08",
+          "caption": ""
+        },
+        {
+          "file": "p09",
+          "caption": ""
+        },
+        {
+          "file": "p10",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "vw-mirror",
+      "category": "works",
+      "title": "מנגנון מראה לרכב פולקסווגן",
+      "summary": "",
+      "body": "",
+      "cover": "p11",
+      "photos": [
+        {
+          "file": "p11",
+          "caption": ""
+        },
+        {
+          "file": "p12",
+          "caption": ""
+        },
+        {
+          "file": "p13",
+          "caption": ""
+        },
+        {
+          "file": "p14",
+          "caption": ""
+        },
+        {
+          "file": "p15",
+          "caption": ""
+        }
+      ]
+    }
+  ]
+}
